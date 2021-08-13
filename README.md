@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Glad you found your way here.
+
+I’m actively trying to become the best version of myself!
+
+I love VoIP and everything related to VoIP 😄
+
 <!--
 **baloeng/baloeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
